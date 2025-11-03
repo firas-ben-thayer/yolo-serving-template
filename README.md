@@ -95,13 +95,4 @@ Goals & next steps (roadmap)
 - Add Dockerfile improvements and CI pipeline for automated tests and releases.
 - Add more endpoints for batch predictions, model reloading, and per-request options (thresholds, classes, ROI coordinates).
 
-Contributing
-- If you'd like to extend the template, open an issue or a PR describing the feature or adapter you want to add.
-
-License
-- This project currently has no license file. Add a `LICENSE` if you plan to publish.
-
-Contact
-- For questions about this template, open an issue in the repo or reach out to the maintainer.
-
 Enjoy this is v0 and intentionally small so it's easy to extend toward ROI / segmentation-first use cases.
